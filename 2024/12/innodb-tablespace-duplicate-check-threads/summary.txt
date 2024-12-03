@@ -1,4 +1,4 @@
-# Processed logs, with time of each phases.
+# Processed logs from m6id.8xlarge, with time of each phases.
 
 $ function grep_startup() {
   local f=$1
